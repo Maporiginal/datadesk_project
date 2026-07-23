@@ -53,7 +53,7 @@ ops + Prometheus + Loki + Grafana + Alertmanager
 | Banco e dados | PostgreSQL, schemas `raw`, `app`, `silver`, `gold` e `ops` |
 | Armazenamento | MinIO, compatível com S3 |
 | Processamento | PySpark, JDBC, OCR com Tesseract e PyMuPDF |
-| Transformação analítica | dbt e dbt-postgres |
+| Transformação analítica | dbt com PostgreSQL |
 | Orquestração | Apache Airflow com LocalExecutor |
 | Observabilidade | Prometheus, Grafana, Loki, Alloy, Alertmanager, cAdvisor e exporters PostgreSQL |
 | Operação PostgreSQL | `pg_stat_statements`, `pg_stat_kcache`, monitoramento por PID e operador administrativo auditável |
@@ -89,4 +89,4 @@ Para abrir o pacote no Windows, use [7-Zip](https://www.7-zip.org/).
 
 ## Autoria
 
-Matheus Andrade. Projeto de portfólio destinado à demonstração e avaliação técnica em Engenharia de Dados.
+Matheus Andrade de Paula. Projeto de portfólio desenvolvido para demonstrar competências práticas em Engenharia de Dados durante processos seletivos e avaliações técnicas.
