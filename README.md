@@ -89,4 +89,4 @@ Para abrir o pacote no Windows, use [7-Zip](https://www.7-zip.org/).
 
 ## Autoria
 
-Matheus Andrade de Paula. Projeto de portfólio desenvolvido para demonstrar competências práticas em Engenharia de Dados durante processos seletivos e avaliações técnicas.
+Matheus Andrade de Paula. Projeto de portfólio desenvolvido para demonstrar competências práticas em Engenharia de Dados.
