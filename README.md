@@ -71,11 +71,9 @@ ops + Prometheus + Loki + Grafana + Alertmanager
 - Grafana é operacional, enquanto Power BI é a camada de apresentação analítica de negócio.
 - Alertas de PostgreSQL são investigáveis por query, PID, aplicação, uso de CPU/memória e logs centralizados.
 
-## Pacote de avaliação técnica
+## Projeto completo
 
-O arquivo [`datadesk_project_portfolio_protegido.7z`](datadesk_project_portfolio_protegido.7z) contém o projeto completo e está protegido por AES-256, incluindo os nomes dos arquivos internos.
-
-A senha é disponibilizada no currículo ou diretamente pelo autor para avaliação técnica. Depois de extraído, o projeto pode ser iniciado com Docker:
+O arquivo [`datadesk_project_portfolio_protegido.7z`](datadesk_project_portfolio_protegido.7z) contém a versão completa do projeto. Depois de extraído, ele pode ser iniciado com Docker:
 
 ```bash
 ./run.sh
@@ -88,12 +86,6 @@ powershell -ExecutionPolicy Bypass -File .\run.ps1
 ```
 
 Para abrir o pacote no Windows, use [7-Zip](https://www.7-zip.org/).
-
-## Integridade do pacote
-
-```text
-SHA-256: bfce5eac0a121f60042ed295eeba6f0c06a089370cbe3a6904c4e99700642da1
-```
 
 ## Autoria
 
